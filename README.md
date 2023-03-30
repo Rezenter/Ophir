@@ -1,3 +1,4 @@
 - Dependencies
 
-pywin32
+pywin32  
+msgpack
